@@ -1,0 +1,117 @@
+body {
+background: #FFFFFF;
+  font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.nav {
+  text-align: center;
+  font-size: 1rem;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  display: inline-block;
+  padding: 13px 13px;
+  color: #212529;
+  margin-right: 5px;
+}
+
+.nav-link:hover {
+  text-decoration:none;
+  background-color: #d0ebff;
+  border-bottom: 2px solid #FFD95A
+}
+.nav-link.current {
+  border-bottom: 2px solid #FFD95A;
+}
+.btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+
+  .nav-link {
+    padding: 20px 20px;
+  }
+  .logo{width: 100px;
+ position: absolute;
+height: 43px;
+margin-top: 15px;
+margin-left: 100px;}
+
+
+.yellowbar{position: absolute;
+ width: 1510px;
+height: 190px;
+top: 85px;
+float: left;
+background: #F7444E;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 78px;
+color: #FFFFFF;}
+.padding{
+	margin-left: 620px;
+	margin-top: 50px;
+}
+
+.box1{position: absolute;
+width: 935px;
+height: 61px;
+left: 280px;
+top: 330px;
+border: 1px solid #CCCCCC;
+border-radius: 3px;
+padding-left: 20px;}
+
+.box2{position: absolute;
+width: 935px;
+height: 61px;
+left: 280px;
+top: 410px;
+border: 1px solid #CCCCCC;
+border-radius: 3px;
+padding-left: 20px;}
+
+.box3{position: absolute;
+width: 935px;
+height: 61px;
+left: 280px;
+top: 490px;
+border: 1px solid #CCCCCC;
+border-radius: 3px;
+padding-left: 20px;}
+
+.box4{position: absolute;
+width: 935px;
+height: 140px;
+left: 280px;
+top: 570px;
+border: 1px solid #CCCCCC;
+border-radius: 3px;
+padding-left: 20px;
+padding-top: 20px;
+font-family: 'Lato';
+font-style: normal;}
+
+.gh{position: absolute;
+width: 650px;
+height: 61px;
+left: 420px;
+top: 770px;
+background: #000000;
+border-radius: 5px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 48px;
+color: #FFFFFF}
+
+.footer{width: 1510px;
+margin-top: 1000px;}
+
